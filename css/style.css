@@ -16,17 +16,18 @@ a {
 }
 /* Header */
 .logo {
-  color: var(--color-brand);
-  font-family: Raleway;
+  color: var(--color-blue);
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 .logo-accent {
-  color: var(--color-blue);
+  color: #2e2f42;
   font-family: Raleway;
 }
 
@@ -98,17 +99,18 @@ a {
   background-color: var(--color-brand);
 }
 
-.logo-footer1 {
-  color: var(--color-praymeri);
+.logo {
+  color: var(--color-blue);
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-decoration: none;
+  text-transform: uppercase;
 }
-.logo-accent {
-  color: var(--color-blue);
+.logo-accent2 {
+  color: var(--color-praymeri);
   font-family: Raleway;
 }
 /* text */
