@@ -103,7 +103,7 @@ a {
 
 /* Sections 2 */
 
-.hero-section_two {
+.hero-section_h {
   background-color: var(--color-praymeri);
   font-weight: 500;
   font-size: 20px;
@@ -116,9 +116,12 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
 }
 /* Sections 3 */
-.hero-section3 {
+.hero-section_three {
   background-color: #f4f4fd;
 }
 /* Sections 4 */
