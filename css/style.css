@@ -34,27 +34,45 @@ a {
 .nav-link {
   color: var(--color-brand);
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
+  font-size: 16px;
+}
+.nav-link:hover {
+  color: #404bbf;
+}
+.nav-link:focus {
+  color: #404bbf;
+}
+/* address-class */
+.address-class {
+  font-style: normal;
 }
 
 .address-link1 {
-  color: var(--color-brand);
+  color: #434455;
+  font-size: 16px;
+  letter-spacing: 0.02em;
 }
 .address-link2 {
-  color: var(--color-brand);
-}
-
-.nav-link:hover {
-  color: var(--color-blue);
+  color: #434455;
+  font-size: 16px;
+  letter-spacing: 0.02em;
 }
 
 .address-link1:hover {
-  color: var(--color-blue);
+  color: #404bbf;
 }
+.address-link1:focus {
+  color: #404bbf;
+}
+
 .address-link2:hover {
-  color: var(--color-blue);
+  color: #404bbf;
+}
+.address-link2:focus {
+  color: #404bbf;
 }
 /* Main */
 /* Sections 1 */
