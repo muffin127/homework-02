@@ -1,0 +1,119 @@
+:root {
+  --color-blue: #4d5ae5;
+  --color-brand: #2e2f42;
+  --color-praymeri: #ffffff;
+}
+
+.body-text {
+  color: var(--color-brand);
+  font-family: "Roboto", sans-serif;
+  background-color: var(--color-praymeri);
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+/* Header */
+.logo {
+  color: var(--color-brand);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-decoration: none;
+}
+
+.logo-accent {
+  color: var(--color-blue);
+  font-family: Raleway;
+}
+
+.nav-link {
+  color: var(--color-brand);
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+
+.address-link1 {
+  color: var(--color-brand);
+}
+.address-link2 {
+  color: var(--color-brand);
+}
+
+.nav-link:hover {
+  color: var(--color-blue);
+}
+
+.address-link1:hover {
+  color: var(--color-blue);
+}
+.address-link2:hover {
+  color: var(--color-blue);
+}
+/* Main */
+/* Sections 1 */
+.hero-title {
+  color: var(--color-praymeri);
+}
+
+/* button */
+.hero-button {
+  color: var(--color-praymeri);
+  background-color: var(--color-blue);
+  cursor: pointer;
+  border: 0;
+  padding: 16px 32px;
+}
+.hero-button:hover {
+  color: var(--color-praymeri);
+  background-color: var(--color-blue);
+}
+
+/* background */
+.hero-section {
+  background-color: var(--color-brand);
+}
+
+/* Sections 2 */
+
+.hero-section2 {
+  background-color: var(--color-praymeri);
+}
+
+/* Sections 3 */
+.hero-section3 {
+  background-color: #f4f4fd;
+}
+/* Sections 4 */
+.hero-section4 {
+  background-color: var(--color-praymeri);
+}
+/* Footer */
+.background-color-footer {
+  background-color: var(--color-brand);
+}
+
+/* logo */
+.logo-footer {
+  color: var(--color-praymeri);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-decoration: none;
+}
+
+.logo-accent {
+  color: var(--color-blue);
+  font-family: Raleway;
+}
+/* text */
+.text-footer {
+  color: var(--color-praymeri);
+}
