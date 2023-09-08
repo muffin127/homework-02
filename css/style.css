@@ -31,40 +31,45 @@ a {
   font-family: "Raleway", sans-serif;
 }
 
-.nav-link1 {
+.nav-link-1 {
   color: #2e2f42;
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 1.5;
+  font-weight: 500;
 }
-.nav-link2 {
+.nav-link-2 {
   color: #2e2f42;
   font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-weight: 500;
 }
-.nav-link3 {
+.nav-link-3 {
   color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 
-.nav-link1:hover {
+.nav-link-1:hover {
   color: #404bbf;
 }
-.nav-link2:hover {
+.nav-link-2:hover {
   color: #404bbf;
 }
-.nav-link3:hover {
+.nav-link-3:hover {
   color: #404bbf;
 }
 
-.nav-link1:focus {
+.nav-link-1:focus {
   color: #404bbf;
 }
-.nav-link2:focus {
+.nav-link-2:focus {
   color: #404bbf;
 }
-.nav-link3:focus {
+.nav-link-3:focus {
   color: #404bbf;
 }
 /* address-class */
@@ -72,28 +77,30 @@ a {
   font-style: normal;
 }
 
-.address-link1 {
+.address-link-1 {
   color: #434455;
   font-size: 16px;
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
-.address-link2 {
+.address-link-2 {
   color: #434455;
   font-size: 16px;
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 
-.address-link1:hover {
+.address-link-1:hover {
   color: #404bbf;
 }
-.address-link1:focus {
+.address-link-1:focus {
   color: #404bbf;
 }
 
-.address-link2:hover {
+.address-link-2:hover {
   color: #404bbf;
 }
-.address-link2:focus {
+.address-link-2:focus {
   color: #404bbf;
 }
 /* Main */
