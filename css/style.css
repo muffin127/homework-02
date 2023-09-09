@@ -80,12 +80,10 @@ a {
   color: var(--color-praymeri);
   background-color: #4d5ae5;
   cursor: pointer;
-  border: 0;
   letter-spacing: 0.04em;
   line-height: 1.5;
   font-size: 16px;
   font-weight: 500;
-  padding: 16px 32px;
   font-family: "Roboto", sans-serif;
 }
 .hero-button:hover {
