@@ -163,6 +163,19 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.hero-section_hthreefour {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.hero-section_pfour {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 /* Footer */
 .background-color-footer {
   background-color: var(--color-brand);
