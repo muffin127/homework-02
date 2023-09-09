@@ -117,20 +117,51 @@ a {
   letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
-  font-size: 16px;
   line-height: 1.5;
+  font-size: 16px;
 }
 /* Sections 3 */
 .hero-section_three {
   background-color: #f4f4fd;
 }
-.hero-li_section {
+
+.hero-section_htwo {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.hero-section_hthree {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.hero-section_lithree {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.hero-section_lithree {
   background-color: #ffffff;
 }
 /* Sections 4 */
-.hero-section4 {
+.hero-section_four {
   background-color: var(--color-praymeri);
+}
+
+.hero-section_hfour {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 /* Footer */
 .background-color-footer {
